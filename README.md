@@ -2,7 +2,7 @@
 
 The smallest and most portable ESP32-powered WLED controller I've built so far. Plug it into a power bank (at 5V), connect your LED strip, and suddenly *you* are the Christmas decoration.
 
-![WLED Micro](Images/real_img1.jpeg)
+![WLED Micro](Images/real_img1.jpg)
 
 Built for the **OSHWLab Christmas Hackathon 2025**, which is why the color PCB version looks like it was wrapped by Santa's elves.
 
@@ -30,7 +30,7 @@ Whether it's powered from a power bank, a USB-C battery pack or a compact charge
 - Backpack and room accents
 - Quick demos and prototyping
 
-![WLED Micro with case](Images/real_img2.jpeg)
+![WLED Micro with case](Images/real_img2.jpg)
 
 ## IMPORTANT INFORMATIONS ! 
 
