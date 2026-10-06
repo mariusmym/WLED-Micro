@@ -1,4 +1,4 @@
-# WLED Micro – Portable Christmas Lights Controller 🎄
+# WLED Micro: Portable Christmas Lights Controller 🎄
 
 The smallest and most portable ESP32-powered WLED controller I've built so far. Plug it into a power bank (at 5V), connect your LED strip, and suddenly *you* are the Christmas decoration.
 
