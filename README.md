@@ -57,7 +57,7 @@ For more info about WLED, check the official docs: https://kno.wled.ge/. And don
 - Google Play: https://play.google.com/store/apps/details?id=ca.cgagnier.wlednativeandroid
 - Apple App Store: https://apps.apple.com/us/app/wled-native/id6446207239
 
-## Main components 🔩
+## Main components 
 
 | Part | Component | LCSC |
 |---|---|---|
